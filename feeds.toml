@@ -1,6 +1,6 @@
 [vlive]
 title = "Red Velvet ─ Star Board"
-url = "https://vlive.tv/channel/DCF447/board/4540"
+url = "https://vlive.tv/channel/DCF447/board/4540?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"

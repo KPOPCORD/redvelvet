@@ -17,3 +17,13 @@ linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = ".writer--pwvK2"
 waitUntil = "networkidle"
+
+[smtown_news]
+title = "SMTOWN ─ Red Velvet"
+url = "https://www.smtown.com/search?type=sub_news&keyword=%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3"
+entrySelector = "ul.search_news.artist li"
+titleSelector = "span.title"
+linkSelector = "a.btn_text"
+imageSelector = "a[class='btn_img bg_cover']"
+contentSelector = "span.text"
+waitUntil = "networkidle"

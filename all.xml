@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 02:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 03:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 10월 11일 발매! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5476</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5476</guid>
+            <pubDate>Tue, 05 Oct 2021 03:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[SM의 DJ 아티스트 레이든(Raiden)이 10월 11일 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)을 발표한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc13775d10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5406</link>
             <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
@@ -314,14 +322,6 @@
             <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 ‘Queendom’(퀸덤)으로 위트 있는 음악을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6110a03561278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘콘셉트퀸’ 레드벨벳 아이린, 웬디, 예리 티저 이미지 공개! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5289</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5289</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속) 멤버 아이린, 웬디, 예리의 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_610cca64c2316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

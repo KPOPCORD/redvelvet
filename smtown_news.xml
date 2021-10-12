@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘iScreaM’ 프로젝트, 레드벨벳 ‘Queendom’ 리믹스 싱글 15일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5509</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5509</guid>
+            <pubDate>Tue, 12 Oct 2021 08:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 ‘Queendom’(퀸덤) 리믹스 버전이 오는 15일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653debd7d3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5498</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 수록곡 ‘Pushin’ N Pullin’’(푸싱 앤 풀링)과 ‘다시, 여름 (Hello, Sunset)’으로 감성적인 매력을 선사한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611350a8e3cc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백’ 레드벨벳, 새 미니앨범 수록곡 ‘Pose’ 에너제틱 매력 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5301</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5301</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 수록곡 ‘Pose’(포즈)로 에너제틱한 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6111f242e6634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

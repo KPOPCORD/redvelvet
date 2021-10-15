@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 03:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 04:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25992134</link>
             <guid>https://vlive.tv/post/1-25992134</guid>
             <pubDate>Thu, 14 Oct 2021 15:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_50/16342236399239eMRw_JPEG/1634219599100.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,6 +196,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 ‘Queendom’ 리믹스 싱글 15일 오후 6시 공개! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5525</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5525</guid>
+            <pubDate>Fri, 15 Oct 2021 04:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Queendom’(퀸덤) 리믹스 버전이 15일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f3293270b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘iScreaM’ 프로젝트, 레드벨벳 ‘Queendom’ 리믹스 싱글 15일 공개! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5509</link>
             <guid>https://www.smtown.com/artist/newsDetail/5509</guid>
@@ -314,14 +322,6 @@
             <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 8월 16일 새 미니앨범 ‘Queendom’(퀸덤)으로 컴백한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61147e3837c78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳, 수록곡 ‘Pushin’ N Pullin’’ + ‘다시, 여름’ 감성 충전 예고! 새 앨범 완성도 UP! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5309</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5309</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 수록곡 ‘Pushin’ N Pullin’’(푸싱 앤 풀링)과 ‘다시, 여름 (Hello, Sunset)’으로 감성적인 매력을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611350a8e3cc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV (Red Velvet ─ Star Board)]]></title>
+            <link>https://vlive.tv/post/1-26273308</link>
+            <guid>https://vlive.tv/post/1-26273308</guid>
+            <pubDate>Mon, 01 Nov 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635757214589GIuxj_JPEG/1635749496716.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser (Red Velvet ─ Star Board)]]></title>
             <link>https://vlive.tv/post/1-26256526</link>
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Sun, 31 Oct 2021 09:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.31.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25992134</guid>
             <pubDate>Thu, 14 Oct 2021 15:12:55 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_50/16342236399239eMRw_JPEG/1634219599100.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet '다시, 여름 (Hello, Sunset)' Special VideoㅣRV Collection (Red Velvet ─ Star Board)]]></title>
@@ -137,13 +144,6 @@
             <content:encoded><![CDATA[6.6.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안녕! 난 너의 JOY야😊 (Red Velvet ─ Star Board)]]></title>
-            <link>https://vlive.tv/post/0-23121357</link>
-            <guid>https://vlive.tv/post/0-23121357</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[6.4.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[레드벨벳 데뷔 7주년은 레베럽과 함께 축하해피니스~😊 (Red Velvet ─ Notice)]]></title>
             <link>https://vlive.tv/post/0-24348629</link>
             <guid>https://vlive.tv/post/0-24348629</guid>
@@ -194,6 +194,14 @@
             <guid>https://vlive.tv/post/0-9106964</guid>
             <pubDate>Wed, 13 Oct 2021 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5576</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
+            <pubDate>Mon, 01 Nov 2021 09:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Bad Boy’(배드 보이)를 새롭게 즐길 수 있는 리믹스 싱글이 1일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳 ‘Queendom’ 리믹스 싱글 15일 오후 6시 공개! (SMTOWN ─ Red Velvet)]]></title>
@@ -314,14 +322,6 @@
             <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)의 맹활약이 드라마에 활력을 더하고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6114cfa81495f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘완전체 컴백’ 레드벨벳 ‘Queendom’이 기대되는 이유 (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5312</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5312</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 8월 16일 새 미니앨범 ‘Queendom’(퀸덤)으로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61147e3837c78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

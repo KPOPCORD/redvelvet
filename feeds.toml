@@ -2,7 +2,7 @@
 title = "레드벨벳 ─ 카카오톡 채널"
 url = "https://pf.kakao.com/_GQxlSV"
 entrySelector = "div.wrap_post"
-titleSelector = "p.desc_post"
+titleSelector = "strong.tit_post"
 linkSelector = "span.txt_time a"
 contentSelector = "p.desc_post"
 DateSelector = "span.txt_time a"

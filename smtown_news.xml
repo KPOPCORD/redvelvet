@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5597</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
+            <pubDate>Fri, 05 Nov 2021 05:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5576</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
             <content:encoded><![CDATA[컴백 초읽기에 들어간 레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 13일 신곡 ‘Queendom’(퀸덤)의 뮤직비디오 티저 영상을 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6115ea435426f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 영리한 추리력으로 팽팽한 긴장감 담아냈다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5313</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5313</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)의 맹활약이 드라마에 활력을 더하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6114cfa81495f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

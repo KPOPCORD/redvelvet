@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 04:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5752</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5752</guid>
+            <pubDate>Fri, 17 Dec 2021 05:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 온유, 키, 민호와 엑소 카이, 레드벨벳(에스엠엔터테인먼트 소속)의 ‘SMTOWN 2022 : SMCU EXPRESS’ 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1658c9ef7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5751</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5751</guid>
+            <pubDate>Fri, 17 Dec 2021 05:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디, ‘SNL 코리아’로 콩트까지 섭렵!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5598</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 ‘Queendom’(퀸덤)으로 음반 차트도 1위를 기록했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611c97a445e1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 ‘Queendom’ 여름 차트 지배!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5328</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5328</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 ‘Queendom’(퀸덤)으로 여름 히트행진을 이어가며 ‘서머퀸’ 파워를 다시 한번 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611b352b8a025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여름 지배자’가 왔다! 레드벨벳 새 미니앨범 ‘Queendom’ 16일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5324</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5324</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘서머퀸’ 레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 드디어 16일 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611b332fdb131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

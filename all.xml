@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 06:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NCT, 에스파, 레이든, 긴조, 임레이 (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5758</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5758</guid>
+            <pubDate>Mon, 20 Dec 2021 06:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5752</link>
             <guid>https://www.smtown.com/artist/newsDetail/5752</guid>
@@ -454,14 +462,6 @@
             <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 신곡 ‘Queendom’(퀸덤) 무대가 8월 20일 첫 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611df36d4e34d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 새 미니앨범 ‘Queendom’ 음원 이어 음반 차트도 1위! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5331</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5331</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 ‘Queendom’(퀸덤)으로 음반 차트도 1위를 기록했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611c97a445e1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

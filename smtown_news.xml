@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 04:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 05:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘착붙 캐릭터’로 첫 등장! 시청자 단숨에 사로잡았다]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5764</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5764</guid>
+            <pubDate>Tue, 21 Dec 2021 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘착붙 캐릭터’로 1화 만에 시청자들을 사로잡았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 에스파, 레이든, 긴조, 임레이]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5758</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
             <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서머퀸’ 레드벨벳 신곡 ‘Queendom’ 무대 20일 첫 공개! 상큼발랄 퍼포먼스 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5332</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5332</guid>
-            <pubDate>Fri, 27 Aug 2021 18:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 신곡 ‘Queendom’(퀸덤) 무대가 8월 20일 첫 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_611df36d4e34d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

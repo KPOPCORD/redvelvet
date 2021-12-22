@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 03:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 04:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 美친 존재감! 연기 포텐 터졌다 (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5768</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5768</guid>
+            <pubDate>Wed, 22 Dec 2021 04:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)의 연기 포텐이 터졌다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29b3a6fe7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘착붙 캐릭터’로 첫 등장! 시청자 단숨에 사로잡았다 (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5764</link>
             <guid>https://www.smtown.com/artist/newsDetail/5764</guid>
@@ -454,14 +462,6 @@
             <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범 ‘Queendom’(퀸덤)으로 주간 음반 차트도 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248fc0784d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 청량+열정 가득한 비하인드 사진 공개! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5343</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5343</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

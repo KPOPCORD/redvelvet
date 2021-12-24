@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 00:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,22 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5781</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
+            <pubDate>Fri, 24 Dec 2021 02:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수 (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5779</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5779</guid>
+            <pubDate>Fri, 24 Dec 2021 02:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 캐릭터 흡수력으로 뜨거운 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5777</link>
             <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
@@ -446,22 +462,6 @@
             <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[SM의 DJ 아티스트 레이든(Raiden)이 10월 11일 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)을 발표한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc13775d10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5406</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 ‘블루버스데이’ 종영 소감을 남겼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5375</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
-            <pubDate>Wed, 13 Oct 2021 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 ‘블루버스데이’의 OST를 직접 불렀다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

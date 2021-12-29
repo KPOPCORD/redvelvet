@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 04:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜” (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5799</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 영국 유명 음악 전문 매거진 NME의 집중 조명을 받았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5798</link>
             <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
@@ -454,14 +462,6 @@
             <pubDate>Fri, 17 Dec 2021 05:12:44 GMT</pubDate>
             <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, ‘SNL 코리아’로 콩트까지 섭렵! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5598</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5598</guid>
-            <pubDate>Mon, 08 Nov 2021 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳 웬디(에스엠엔터테인먼트 소속)가 성공적으로 콩트 연기 도전을 마쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894723073f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

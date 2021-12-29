@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,22 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Wed, 29 Dec 2021 03:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5797</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5797</guid>
+            <pubDate>Wed, 29 Dec 2021 03:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[SM이 새롭게 선보이는 프로젝트 유닛 GOT the beat(갓 더 비트)의 멤버별 티저 이미지가 공개되어 연일 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5791</link>
             <guid>https://www.smtown.com/artist/newsDetail/5791</guid>
@@ -446,22 +462,6 @@
             <pubDate>Mon, 08 Nov 2021 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳 웬디(에스엠엔터테인먼트 소속)가 성공적으로 콩트 연기 도전을 마쳤다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894723073f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5597</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5576</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
-            <pubDate>Mon, 01 Nov 2021 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Bad Boy’(배드 보이)를 새롭게 즐길 수 있는 리믹스 싱글이 1일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

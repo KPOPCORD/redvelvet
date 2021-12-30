@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,22 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5805</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
+            <pubDate>Thu, 30 Dec 2021 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 특별한 스테이지를 준비했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5804</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5804</guid>
+            <pubDate>Thu, 30 Dec 2021 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 신곡 ‘Step Back’(스텝 백)으로 ‘퍼포먼스 갓’의 면모를 보여준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd4878d64c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜” (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5799</link>
             <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
@@ -446,22 +462,6 @@
             <pubDate>Mon, 20 Dec 2021 06:16:28 GMT</pubDate>
             <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5752</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5752</guid>
-            <pubDate>Fri, 17 Dec 2021 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유, 키, 민호와 엑소 카이, 레드벨벳(에스엠엔터테인먼트 소속)의 ‘SMTOWN 2022 : SMCU EXPRESS’ 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1658c9ef7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5751</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5751</guid>
-            <pubDate>Fri, 17 Dec 2021 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

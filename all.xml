@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 시청자 무장 해제시키는 ‘역대급 캐릭터’ (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5808</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5808</guid>
+            <pubDate>Fri, 31 Dec 2021 07:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 다채로운 연기로 사랑받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5805</link>
             <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
@@ -454,14 +462,6 @@
             <pubDate>Tue, 21 Dec 2021 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘착붙 캐릭터’로 1화 만에 시청자들을 사로잡았다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 에스파, 레이든, 긴조, 임레이 (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5758</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5758</guid>
-            <pubDate>Mon, 20 Dec 2021 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

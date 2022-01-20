@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 웬디, ‘록 시크+다크’ 역대급 반전 매력 담은 화보 공개! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5879</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5879</guid>
+            <pubDate>Thu, 20 Jan 2022 06:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 웬디(에스엠엔터테인먼트 소속)가 이색적인 모습으로 모두를 놀라게 만들었다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fb55d08f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5875</link>
             <guid>https://www.smtown.com/artist/newsDetail/5875</guid>
@@ -454,14 +462,6 @@
             <pubDate>Wed, 29 Dec 2021 05:14:12 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 영국 유명 음악 전문 매거진 NME의 집중 조명을 받았다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5798</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
-            <pubDate>Wed, 29 Dec 2021 03:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

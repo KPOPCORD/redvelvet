@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,22 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5911</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
+            <pubDate>Thu, 27 Jan 2022 05:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5910</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
+            <pubDate>Thu, 27 Jan 2022 05:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘퍼포먼스 갓’ GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 드디어 27일 ‘엠카운트다운’에서 스페셜 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’ (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5906</link>
             <guid>https://www.smtown.com/artist/newsDetail/5906</guid>
@@ -446,22 +462,6 @@
             <pubDate>Mon, 03 Jan 2022 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 시청자 무장 해제시키는 ‘역대급 캐릭터’ (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5808</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5808</guid>
-            <pubDate>Fri, 31 Dec 2021 07:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 다채로운 연기로 사랑받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5805</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
-            <pubDate>Thu, 30 Dec 2021 06:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 특별한 스테이지를 준비했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

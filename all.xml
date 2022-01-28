@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5917</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5917</guid>
+            <pubDate>Fri, 28 Jan 2022 06:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 긴조(GINJO, 에스엠엔터테인먼트 소속)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 네 번째 주자로 나선다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f381dbed3c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5911</link>
             <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
@@ -454,14 +462,6 @@
             <pubDate>Mon, 03 Jan 2022 06:17:01 GMT</pubDate>
             <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 새해 첫날 전 세계 ‘안방 1열’을 뜨겁게 달구며 성공적으로 막을 내렸다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d2865c5716f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3 (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5811</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5811</guid>
-            <pubDate>Mon, 03 Jan 2022 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

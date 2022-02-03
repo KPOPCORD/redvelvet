@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 사건 실마리 담긴 판도라 상자 열었다! ‘긴장감 조성’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5925</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5925</guid>
+            <pubDate>Thu, 03 Feb 2022 06:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 숨겨졌던 진실 앞에 마주 서 극에 팽팽한 긴장감을 조성했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb679383c44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5917</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 03 Jan 2022 06:17:01 GMT</pubDate>
             <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)의 신곡 ‘Step Back’(스텝 백)이 3일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’,]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5813</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5813</guid>
-            <pubDate>Mon, 03 Jan 2022 06:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 새해 첫날 전 세계 ‘안방 1열’을 뜨겁게 달구며 성공적으로 막을 내렸다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d2865c5716f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Red Velvet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, 윌 낫 피어 공연 4일 오후 9시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5933</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5933</guid>
+            <pubDate>Fri, 04 Feb 2022 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 다섯 번째 공연 주자로 프로듀서 겸 DJ 윌 낫 피어(Will Not Fear)가 출격한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2768a303.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 사건 실마리 담긴 판도라 상자 열었다! ‘긴장감 조성’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5925</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 04 Jan 2022 06:16:26 GMT</pubDate>
             <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)의 판매량이 41만 장을 돌파했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d812a1382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5815</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5815</guid>
-            <pubDate>Mon, 03 Jan 2022 06:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)의 신곡 ‘Step Back’(스텝 백)이 3일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

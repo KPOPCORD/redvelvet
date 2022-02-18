@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 03:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 04:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5972</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5972</guid>
+            <pubDate>Fri, 18 Feb 2022 04:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 일곱 번째 공연 주자로 DJ 와우(WOW)가 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f123580010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이) “‘미도’는 내게 선물처럼 다가온 역할” 종영 소감 (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5944</link>
             <guid>https://www.smtown.com/artist/newsDetail/5944</guid>
@@ -454,14 +462,6 @@
             <pubDate>Tue, 11 Jan 2022 04:17:29 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 화려한 파티룩으로 무결점 미모를 한껏 드러냈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfd4ee0753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5832</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5832</guid>
-            <pubDate>Fri, 07 Jan 2022 02:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[인기 DJ J.E.B(요한 일렉트릭 바흐)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 첫 번째 주자로 출격한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79ff65b148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

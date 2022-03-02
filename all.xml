@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고! (SMTOWN ─ Red Velvet)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6009</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6009</guid>
+            <pubDate>Wed, 02 Mar 2022 05:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범으로 올봄 가요계를 매료시킬 전망이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8e238b67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (SMTOWN ─ Red Velvet)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5995</link>
             <guid>https://www.smtown.com/artist/newsDetail/5995</guid>
@@ -454,14 +462,6 @@
             <pubDate>Wed, 19 Jan 2022 03:13:01 GMT</pubDate>
             <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 주연으로 활약한 ‘블루버스데이’가 극장에서 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’ (SMTOWN ─ Red Velvet)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5873</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5873</guid>
-            <pubDate>Wed, 19 Jan 2022 03:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 날이 갈수록 단단해지는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7791ed87b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

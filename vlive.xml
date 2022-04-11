@@ -1,8 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/DCF447/board/4540?lang=ko</id>
-    <title>Red Velvet ─ Star Board</title>
-    <updated>2022-04-11T05:13:22.606Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Red Velvet ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Apr 2022 06:18:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-26273308</link>
+            <guid>https://vlive.tv/post/1-26273308</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635757214589GIuxj_JPEG/1635749496716.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26256526</link>
+            <guid>https://vlive.tv/post/1-26256526</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV]]></title>
+            <link>https://vlive.tv/post/0-25996405</link>
+            <guid>https://vlive.tv/post/0-25996405</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211015_49/1634288428421ol3gz_JPEG/1634282900386.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-25992134</link>
+            <guid>https://vlive.tv/post/1-25992134</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet '다시, 여름 (Hello, Sunset)' Special VideoㅣRV Collection]]></title>
+            <link>https://vlive.tv/post/1-25206265</link>
+            <guid>https://vlive.tv/post/1-25206265</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
+            <link>https://vlive.tv/post/0-24841714</link>
+            <guid>https://vlive.tv/post/0-24841714</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV]]></title>
+            <link>https://vlive.tv/post/0-24801735</link>
+            <guid>https://vlive.tv/post/0-24801735</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-24747836</link>
+            <guid>https://vlive.tv/post/1-24747836</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 데뷔 7주년 축하해피니스~😊]]></title>
+            <link>https://vlive.tv/post/1-24346714</link>
+            <guid>https://vlive.tv/post/1-24346714</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler]]></title>
+            <link>https://vlive.tv/post/1-24521400</link>
+            <guid>https://vlive.tv/post/1-24521400</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Mystic General Store - 'Closed' #RedVelvet]]></title>
+            <link>https://vlive.tv/post/1-24451155</link>
+            <guid>https://vlive.tv/post/1-24451155</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'So Good' #SEULGI]]></title>
+            <link>https://vlive.tv/post/1-24426033</link>
+            <guid>https://vlive.tv/post/1-24426033</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Bad Dracula' #JOY]]></title>
+            <link>https://vlive.tv/post/0-24395150</link>
+            <guid>https://vlive.tv/post/0-24395150</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Perfect 10' #IRENE]]></title>
+            <link>https://vlive.tv/post/0-24375891</link>
+            <guid>https://vlive.tv/post/0-24375891</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Talk To Me' #YERI]]></title>
+            <link>https://vlive.tv/post/1-24361607</link>
+            <guid>https://vlive.tv/post/1-24361607</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'I Just' #WENDY]]></title>
+            <link>https://vlive.tv/post/1-24339188</link>
+            <guid>https://vlive.tv/post/1-24339188</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Somethin Kinda Crazy']]></title>
+            <link>https://vlive.tv/post/1-24316887</link>
+            <guid>https://vlive.tv/post/1-24316887</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY 조이 '안녕 (Hello)' Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-23545168</link>
+            <guid>https://vlive.tv/post/0-23545168</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY 조이 '좋을텐데 (If Only) (Feat. 폴킴)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-23339534</link>
+            <guid>https://vlive.tv/post/0-23339534</guid>
+            <pubDate>Mon, 11 Apr 2022 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+        </item>
+    </channel>
+</rss>
